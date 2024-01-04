@@ -1,3 +1,5 @@
+![Kiku](aVP_Toolbox-logo.png)
+
 # The aVP-Toolbox project
 
 v0.11, 12-2023
@@ -31,21 +33,21 @@ A tool for automatic segmentation is currently being developed. aVP-Toolbox uses
 Please see the instructions documentation in this repository for more details, and refer to the publication “Pravatà, E., Diociasi, A., Navarra, R. et al. Biometry extraction and probabilistic anatomical atlas of the anterior Visual Pathway using dedicated high-resolution 3-D MRI. Sci Rep 14, 453 (2024). https://doi.org/10.1038/s41598-023-50980-x” for more methodological details.
 
 
-### Copyright and credits
+## Copyright and credits
 aVP-Toolbox is a non-profit project developed at the Neurocenter of Southern Switzerland in Lugano (CH) under the direction of Emanuele Pravatà (PD, MD), and in collaboration with Prof. Luca Roccatagliata and Dr. Andrea Diociasi, (DISSAL- Dipartimento di Scienze della Salute, University of Genoa, IT), PhD Riccardo Navarra (Institute for Advanced Biomedical Technologies-ITAB,Chieti, IT), and PhD Paul Summers (IEO-European institute of Oncology, Milan, IT). 
 
 
-### Acknowledgements.
+## Acknowledgements.
 This project was conducted with financial support from: 'Velux Stiftung', 'Swiss Society of Multiple Sclerosis', and 'Advisory Board for Research of the Ente Ospedaliero Cantonale del Ticino (ABREOC)'.
 
 
-### Licence
+## Licence
 AVP-Toolbox is licensed under the Creative Commons Attribution 4.0 International License, permitting use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You. Please go to http://creativecommons.org/licenses/by/4.0/ to view a complete copy of this licence. 
 
-### Instructions
+## Instructions
 For instructions on using the aVP toolbox software, please read the document "**aVP_instructions_v0.11.txt**" in this repository.
 
-#### References
+## References
 *If you cite aVP-Toolbox in your research of as part of your projects, we kindly ask you to cite the following reference:*
 
 Pravatà, E., Diociasi, A., Navarra, R. et al. Biometry extraction and probabilistic anatomical atlas of the anterior Visual Pathway using dedicated high-resolution 3-D MRI. Sci Rep 14, 453 (2024). https://doi.org/10.1038/s41598-023-50980-x
